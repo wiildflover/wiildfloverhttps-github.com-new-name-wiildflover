@@ -10,7 +10,7 @@
 <div align="center">
 
 <!-- HEADER WITH DARK PINK GRADIENT -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a12,15:3d1a2a,35:6b2d4a,50:8b3a5c,65:6b2d4a,85:3d1a2a,100:1a0a12&height=200&section=header&text=Wildflover&fontSize=80&fontColor=ff6b9d&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=18&descAlignY=55&descAlign=50&stroke=ff6b9d&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a12,15:3d1a2a,35:6b2d4a,50:8b3a5c,65:6b2d4a,85:3d1a2a,100:1a0a12&height=200&section=header&text=Wildflover&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=18&descAlignY=55&descAlign=50&descColor=e0e0e0" width="100%"/>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
