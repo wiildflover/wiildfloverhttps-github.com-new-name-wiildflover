@@ -12,7 +12,9 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=wiildflover&style=flat&color=C084FC&label=Viewers" alt="Viewers"/>
+<a href="https://github.com/wiildflover">
+  <img src="https://custom-icon-badges.demolab.com/badge/Viewers-26-C084FC?style=for-the-badge&logo=eye&logoColor=white&labelColor=1a1b27" alt="Viewers"/>
+</a>
 
 <br/><br/>
 
@@ -151,11 +153,11 @@ class Developer:
 <div align="center">
 
 <a href="https://discord.gg/djYsHczs5R">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1b27" alt="Discord"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://open.spotify.com/user/camelyia123">
-  <img src="https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white" alt="Spotify"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Spotify-Listen%20Now-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=1a1b27" alt="Spotify"/>
 </a>
 
 </div>
