@@ -9,8 +9,11 @@
 
 <div align="center">
 
+<!-- ANIME BANNER -->
+<img src="https://i.pinimg.com/originals/4e/cf/21/4ecf21987290aac443e3e24f1ebf8ae1.gif" width="100%" alt="Banner"/>
+
 <!-- HEADER WITH PINK GRADIENT -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b9d,25:c44569,50:ff6b9d,75:f8a5c2,100:ff6b9d&height=180&section=header&text=Wildflover&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Software%20Architect%20│%20Full%20Stack%20Developer&descSize=16&descAlignY=52&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b9d,25:c44569,50:ff6b9d,75:f8a5c2,100:ff6b9d&height=150&section=header&text=Wildflover&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=16&descAlignY=62&descAlign=50" width="100%"/>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
