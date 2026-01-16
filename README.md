@@ -36,7 +36,6 @@
 <td width="50%" valign="top">
 
 ```rust
-// Developer Profile - Rust Implementation
 pub struct Developer<'a> {
     pub name: &'a str,
     pub location: &'a str,
@@ -77,7 +76,6 @@ impl<'a> Developer<'a> {
 <td width="50%" valign="top">
 
 ```python
-# Developer Profile - Python Implementation
 class Developer:
     """Developer profile configuration."""
     
