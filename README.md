@@ -2,14 +2,15 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=500&height=60&lines=Hi%2C+I'm+Wildflover" alt="Title" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=5865F2&height=2&section=header" width="200"/>
+---
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=400&size=18&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&repeat=false&width=400&height=30&lines=Full+Stack+Developer+from+Turkey" alt="Subtitle" />
 
 <br/><br/>
 
 *A passionate developer who loves building desktop applications with Tauri,*
-*exploring system programming with Rust, and watching anime during compile time.*
+*exploring system programming with Rust, crafting utility tools and automation*
+*systems with Python, designing elegant interfaces, and watching anime during compile time.*
 
 <br/><br/>
 
@@ -167,14 +168,15 @@ class Developer:
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=500&height=60&lines=Hi%2C+I'm+Wildflover" alt="Title" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=5865F2&height=2&section=header" width="200"/>
+---
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=400&size=18&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&repeat=false&width=400&height=30&lines=Full+Stack+Developer+from+Turkey" alt="Subtitle" />
 
 <br/><br/>
 
 *A passionate developer who loves building desktop applications with Tauri,*
-*exploring system programming with Rust, and watching anime during compile time.*
+*exploring system programming with Rust, crafting utility tools and automation*
+*systems with Python, designing elegant interfaces, and watching anime during compile time.*
 
 <br/><br/>
 
