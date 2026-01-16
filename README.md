@@ -1,17 +1,12 @@
 <div align="center">
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,20:1a1a2e,40:2d1f3d,60:4a2040,80:6b2d4a,100:8b3a5c&height=220&section=header&text=Wildflover&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=20&descAlignY=55&descAlign=50&descColor=ff9ecd" width="100%"/>
+# Hi, I'm Wildflover
 
-<!-- BIO -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=FF6B9D&center=true&vCenter=true&repeat=true&width=550&height=40&lines=A+chill+developer+seeking+fun+and+loving+anime" alt="Bio" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=FF6B9D&center=true&vCenter=true&repeat=true&width=450&height=30&lines=Full+Stack+Developer" alt="Role" />
 
 <br/>
 
-<!-- BADGES -->
-<img src="https://komarev.com/ghpvc/?username=wiildflover&style=for-the-badge&color=ff6b9d&label=VISITORS" alt="Views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/wiildflover?style=for-the-badge&color=c44569&labelColor=1a1b27&logo=github&label=Followers" alt="Followers"/>
+<img src="https://komarev.com/ghpvc/?username=wiildflover&style=flat-square&color=ff6b9d&label=Profile+Views" alt="Views"/>
 
 </div>
 
@@ -19,18 +14,59 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-```typescript
-const wildflover = {
-    pronouns: "he/him",
+<table>
+<tr>
+<td width="50%">
+
+```rust
+struct Developer {
+    name: &'static str,
+    location: &'static str,
+    role: &'static str,
+    languages: Vec<&'static str>,
+    hobbies: Vec<&'static str>,
+}
+
+let wildflover = Developer {
+    name: "Wildflover",
     location: "Turkey",
-    code: ["TypeScript", "Rust", "Python", "JavaScript"],
-    tools: ["React", "Tauri", "Node.js", "Vite"],
-    architecture: ["SPA", "MVC", "Microservices"],
-    currentlyLearning: "Rust & System Programming",
-    hobbies: ["Anime", "League of Legends", "Story Games"],
-    funFact: "I watch anime while my code compiles"
+    role: "Full Stack Developer",
+    languages: vec![
+        "Rust", "TypeScript", 
+        "Python", "JavaScript"
+    ],
+    hobbies: vec![
+        "Anime", "League of Legends", 
+        "Story Games"
+    ],
 };
 ```
+
+</td>
+<td width="50%">
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Wildflover"
+        self.location = "Turkey"
+        self.role = "Full Stack Developer"
+        self.languages = [
+            "Rust", "TypeScript",
+            "Python", "JavaScript"
+        ]
+        self.hobbies = [
+            "Anime", "League of Legends",
+            "Story Games"
+        ]
+        self.fun_fact = "I watch anime while code compiles"
+
+wildflover = Developer()
+```
+
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
