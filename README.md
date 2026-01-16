@@ -1,8 +1,14 @@
 <div align="center">
 
+<img src="https://komarev.com/ghpvc/?username=wiildflover&style=for-the-badge&color=6c5ce7&label=PROFILE+VIEWS" alt="Views"/>
+
 # Hi, I'm Wildflover
 
+</div>
+
 ---
+
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=400&size=18&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&repeat=false&width=400&height=30&lines=Full+Stack+Developer+from+Turkey" alt="Subtitle" />
 
@@ -26,7 +32,6 @@
 <td width="50%" valign="top">
 
 ```rust
-// Rust Implementation
 pub struct Developer<'a> {
     pub name: &'a str,
     pub location: &'a str,
@@ -58,7 +63,6 @@ impl<'a> Developer<'a> {
 <td width="50%" valign="top">
 
 ```python
-# Python Implementation
 class Developer:
     """Developer profile configuration."""
     
