@@ -1,72 +1,95 @@
 <div align="center">
 
-# Hi, I'm Wildflover
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=FF6B9D&center=true&vCenter=true&repeat=true&width=450&height=30&lines=Full+Stack+Developer" alt="Role" />
+<!-- ANIMATED HEADER -->
+<a href="https://github.com/wiildflover">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=45&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&repeat=false&width=600&height=70&lines=%E2%9C%A6+WILDFLOVER+%E2%9C%A6" alt="Name" />
+</a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=wiildflover&style=flat-square&color=ff6b9d&label=Profile+Views" alt="Views"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&repeat=true&width=500&height=25&lines=Full+Stack+Developer+%7C+Open+Source+Enthusiast+%7C+Anime+Lover" alt="Tagline" />
+
+<br/><br/>
+
+<!-- SOCIAL LINKS -->
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white)](https://discord.gg/djYsHczs5R)
+&nbsp;&nbsp;
+[![Spotify](https://img.shields.io/badge/Spotify-%231DB954.svg?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/camelyia123)
+&nbsp;&nbsp;
+![Views](https://komarev.com/ghpvc/?username=wiildflover&style=flat&color=ff6b9d&label=views)
 
 </div>
+
+<br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
+<div align="center">
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ```rust
-struct Developer {
-    name: &'static str,
-    location: &'static str,
-    role: &'static str,
-    languages: Vec<&'static str>,
-    hobbies: Vec<&'static str>,
+// Rust Implementation
+pub struct Developer<'a> {
+    pub name: &'a str,
+    pub location: &'a str,
+    pub role: &'a str,
+    pub stack: Vec<&'a str>,
+    pub interests: Vec<&'a str>,
 }
 
-let wildflover = Developer {
-    name: "Wildflover",
-    location: "Turkey",
-    role: "Full Stack Developer",
-    languages: vec![
-        "Rust", "TypeScript", 
-        "Python", "JavaScript"
-    ],
-    hobbies: vec![
-        "Anime", "League of Legends", 
-        "Story Games"
-    ],
-};
+impl<'a> Developer<'a> {
+    pub fn new() -> Self {
+        Self {
+            name: "Wildflover",
+            location: "Turkey",
+            role: "Full Stack Developer",
+            stack: vec![
+                "Rust", "TypeScript",
+                "Python", "JavaScript"
+            ],
+            interests: vec![
+                "Anime", "League of Legends",
+                "Story-Driven Games"
+            ],
+        }
+    }
+}
 ```
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ```python
+# Python Implementation
 class Developer:
-    def __init__(self):
-        self.name = "Wildflover"
-        self.location = "Turkey"
-        self.role = "Full Stack Developer"
-        self.languages = [
+    """Developer profile configuration."""
+    
+    def __init__(self) -> None:
+        self.name: str = "Wildflover"
+        self.location: str = "Turkey"
+        self.role: str = "Full Stack Developer"
+        self.stack: list[str] = [
             "Rust", "TypeScript",
             "Python", "JavaScript"
         ]
-        self.hobbies = [
+        self.interests: list[str] = [
             "Anime", "League of Legends",
-            "Story Games"
+            "Story-Driven Games"
         ]
-        self.fun_fact = "I watch anime while code compiles"
-
-wildflover = Developer()
+        self.motto: str = "Code by day, anime by night"
+    
+    def __repr__(self) -> str:
+        return f"<Developer: {self.name}>"
 ```
 
 </td>
 </tr>
 </table>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -127,9 +150,7 @@ wildflover = Developer()
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/djYsHczs5R)
-&nbsp;
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/camelyia123)
+*Thanks for visiting my profile!*
 
 </div>
 
