@@ -19,8 +19,6 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300"/>
-
 ```typescript
 const wildflover = {
     pronouns: "he/him",
@@ -29,11 +27,10 @@ const wildflover = {
     tools: ["React", "Tauri", "Node.js", "Vite"],
     architecture: ["SPA", "MVC", "Microservices"],
     currentlyLearning: "Rust & System Programming",
+    hobbies: ["Anime", "League of Legends", "Story Games"],
     funFact: "I watch anime while my code compiles"
 };
 ```
-
-<br clear="right"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -86,26 +83,6 @@ const wildflover = {
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wiildflover&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=ff6b9d&icon_color=f8a5c2&text_color=c0caf5" alt="Stats"/>
   &nbsp;
   <img height="180em" src="https://streak-stats.demolab.com?user=wiildflover&theme=tokyonight&hide_border=true&background=1a1b27&ring=ff6b9d&fire=f8a5c2&currStreakLabel=ff6b9d" alt="Streak"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Favorite Anime
-
-<div align="center">
-
-`Hunter x Hunter` `Jujutsu Kaisen` `Demon Slayer` `Bleach` `My Hero Academia` `Black Clover` `Naruto`
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://media.giphy.com/media/XGhDW5hFOsPsIwLGBC/giphy.gif" width="28"> Games I Play
-
-<div align="center">
-
-`League of Legends` `Story-Driven Games`
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
