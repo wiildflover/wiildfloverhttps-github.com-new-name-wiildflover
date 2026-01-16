@@ -22,8 +22,6 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
 <div align="center">
@@ -149,14 +147,12 @@ class Developer:
 <div align="center">
 
 <a href="https://discord.gg/djYsHczs5R">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" height="28" alt="Discord"/>
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://open.spotify.com/user/camelyia123">
-  <img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" height="28" alt="Spotify"/>
+  <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
 </a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=wiildflover&style=flat-square&color=C084FC&label=Views" height="28" alt="Views"/>
 
 </div>
 
