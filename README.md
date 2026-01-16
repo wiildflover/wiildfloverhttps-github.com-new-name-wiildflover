@@ -1,7 +1,16 @@
 <div align="center">
 
-<!-- HEADER WITH ELEGANT PINK GRADIENT -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,20:1a1a2e,40:2d1f3d,60:4a2040,80:6b2d4a,100:8b3a5c&height=220&section=header&text=Wildflover&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer&descSize=18&descAlignY=50&descAlign=50&descColor=ff9ecd" width="100%"/>
+<!-- HEADER GRADIENT BACKGROUND -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,20:1a1a2e,40:2d1f3d,60:4a2040,80:6b2d4a,100:8b3a5c&height=180&section=header" width="100%"/>
+
+<!-- CUSTOM STYLED TITLE -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=700&size=65&duration=4000&pause=1000&color=FF6B9D&center=true&vCenter=true&repeat=false&width=500&height=80&lines=Wildflover" alt="Title" />
+</a>
+<br/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=22&duration=4000&pause=1000&color=FFB6C1&center=true&vCenter=true&repeat=false&width=280&height=35&lines=Full+Stack+Developer" alt="Subtitle" />
+</a>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
@@ -31,6 +40,7 @@ struct Developer {
     role: &'static str,
     languages: Vec<&'static str>,
     hobbies: Vec<&'static str>,
+    favorite_anime: Vec<&'static str>,
 }
 
 impl Developer {
@@ -41,10 +51,25 @@ impl Developer {
             role: "Full Stack Developer",
             languages: vec!["Rust", "TypeScript", "Python"],
             hobbies: vec!["Anime", "Gaming", "Open Source"],
+            favorite_anime: vec![
+                "Hunter x Hunter", "Jujutsu Kaisen", "Demon Slayer",
+                "Bleach", "My Hero Academia", "Black Clover", "Naruto"
+            ],
         }
     }
 }
 ```
+
+<div align="center">
+
+| Currently | Status |
+|:---:|:---:|
+| Working on | Desktop Applications with Tauri |
+| Learning | Rust & System Programming |
+| Looking for | Open Source Collaborations |
+| Fun fact | I watch anime while debugging |
+
+</div>
 
 <br/>
 
@@ -103,6 +128,63 @@ impl Developer {
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wiildflover&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=ff6b9d&icon_color=f8a5c2&text_color=c0caf5" alt="GitHub Stats"/>
   &nbsp;
   <img height="170em" src="https://streak-stats.demolab.com?user=wiildflover&theme=tokyonight&hide_border=true&background=1a1b27&ring=ff6b9d&fire=f8a5c2&currStreakLabel=ff6b9d" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## ⌁ Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/wiildflover/wiildflover">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=wiildflover&repo=wiildflover&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=ff6b9d&icon_color=f8a5c2" alt="Profile Repo"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## ⌁ Favorite Anime
+
+<div align="center">
+
+| Shonen | Status |
+|:---|:---:|
+| Hunter x Hunter | Masterpiece |
+| Jujutsu Kaisen | Currently Watching |
+| Demon Slayer | Completed |
+| Bleach: TYBW | Watching |
+| My Hero Academia | Completed |
+| Black Clover | Completed |
+| Naruto/Shippuden | Classic |
+
+</div>
+
+<br/>
+
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## ⌁ What I Do
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  ► Building desktop apps with Tauri + React                 │
+│  ► Creating automation tools and CLI utilities              │
+│  ► Contributing to open source projects                     │
+│  ► Exploring system programming with Rust                   │
+│  ► Watching anime during compile time                       │
+└─────────────────────────────────────────────────────────────┘
+```
+
 </div>
 
 <br/>
