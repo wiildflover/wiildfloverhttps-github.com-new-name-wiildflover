@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=wiildflover&style=for-the-badge&color=6c5ce7&label=PROFILE+VIEWS" alt="Views"/>
-
 # Hi, I'm Wildflover
 
 </div>
@@ -12,6 +10,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=400&size=18&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&repeat=false&width=400&height=30&lines=Full+Stack+Developer+from+Turkey" alt="Subtitle" />
 
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=wiildflover&style=flat&color=C084FC&label=Viewers" alt="Viewers"/>
+
 <br/><br/>
 
 *A passionate developer who loves building desktop applications with Tauri,*
@@ -21,6 +23,8 @@
 </div>
 
 <br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
@@ -147,11 +151,11 @@ class Developer:
 <div align="center">
 
 <a href="https://discord.gg/djYsHczs5R">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://open.spotify.com/user/camelyia123">
-  <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+  <img src="https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white" alt="Spotify"/>
 </a>
 
 </div>
