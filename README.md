@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- ANIME STYLE HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:1a0a1a,100:2d1f3d&height=250&section=header&text=Wildflover&fontSize=70&fontColor=e4a0ff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=20&descAlignY=52&descAlign=50&descColor=b8b8b8&stroke=9d4edd&strokeWidth=2" width="100%"/>
+<!-- HEADER WITH ELEGANT PINK GRADIENT -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,20:1a1a2e,40:2d1f3d,60:4a2040,80:6b2d4a,100:8b3a5c&height=220&section=header&text=Wildflover&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer&descSize=18&descAlignY=50&descAlign=50&descColor=ff9ecd" width="100%"/>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
@@ -125,6 +125,6 @@ impl Developer {
 <br/>
 
 <!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:1a0a1a,100:2d1f3d&height=120&section=footer&reversal=true" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b3a5c,20:6b2d4a,40:4a2040,60:2d1f3d,80:1a1a2e,100:0d0d0d&height=100&section=footer" width="100%"/>
 
 </div>
