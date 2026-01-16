@@ -36,11 +36,14 @@
 <td width="50%" valign="top">
 
 ```rust
+// Developer Profile - Rust Implementation
 pub struct Developer<'a> {
     pub name: &'a str,
     pub location: &'a str,
     pub role: &'a str,
-    pub stack: Vec<&'a str>,
+    pub languages: Vec<&'a str>,
+    pub frameworks: Vec<&'a str>,
+    pub databases: Vec<&'a str>,
     pub interests: Vec<&'a str>,
 }
 
@@ -50,9 +53,16 @@ impl<'a> Developer<'a> {
             name: "Wildflover",
             location: "Turkey",
             role: "Full Stack Developer",
-            stack: vec![
+            languages: vec![
                 "Rust", "TypeScript",
                 "Python", "JavaScript"
+            ],
+            frameworks: vec![
+                "React", "Tauri",
+                "Node.js", "Vite"
+            ],
+            databases: vec![
+                "MySQL", "MongoDB", "Redis"
             ],
             interests: vec![
                 "Anime", "League of Legends",
@@ -67,6 +77,7 @@ impl<'a> Developer<'a> {
 <td width="50%" valign="top">
 
 ```python
+# Developer Profile - Python Implementation
 class Developer:
     """Developer profile configuration."""
     
@@ -74,9 +85,17 @@ class Developer:
         self.name: str = "Wildflover"
         self.location: str = "Turkey"
         self.role: str = "Full Stack Developer"
-        self.stack: list[str] = [
+        
+        self.languages: list[str] = [
             "Rust", "TypeScript",
             "Python", "JavaScript"
+        ]
+        self.frameworks: list[str] = [
+            "React", "Tauri",
+            "Node.js", "Vite"
+        ]
+        self.databases: list[str] = [
+            "MySQL", "MongoDB", "Redis"
         ]
         self.interests: list[str] = [
             "Anime", "League of Legends",
