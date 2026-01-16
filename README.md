@@ -9,11 +9,8 @@
 
 <div align="center">
 
-<!-- ANIME BANNER -->
-<img src="https://i.pinimg.com/originals/4e/cf/21/4ecf21987290aac443e3e24f1ebf8ae1.gif" width="100%" alt="Banner"/>
-
-<!-- HEADER WITH PINK GRADIENT -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b9d,25:c44569,50:ff6b9d,75:f8a5c2,100:ff6b9d&height=150&section=header&text=Wildflover&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=16&descAlignY=62&descAlign=50" width="100%"/>
+<!-- HEADER WITH DARK PINK GRADIENT -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a12,15:3d1a2a,35:6b2d4a,50:8b3a5c,65:6b2d4a,85:3d1a2a,100:1a0a12&height=200&section=header&text=Wildflover&fontSize=80&fontColor=ff6b9d&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=18&descAlignY=55&descAlign=50&stroke=ff6b9d&strokeWidth=1" width="100%"/>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
@@ -32,7 +29,7 @@
 </div>
 
 <!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%">
 
 ## ⌁ About Me
 
@@ -61,7 +58,7 @@ impl Developer {
 <br/>
 
 <!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%">
 
 ## ⌁ Tech Stack
 
@@ -107,7 +104,7 @@ impl Developer {
 <br/>
 
 <!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%">
 
 ## ⌁ GitHub Stats
 
@@ -120,17 +117,13 @@ impl Developer {
 <br/>
 
 <!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%">
 
 ## ⌁ Connect
 
 <div align="center">
-  <a href="https://discord.gg/wildflover">
+  <a href="https://discord.gg/djYsHczs5R">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/wiildflover">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   &nbsp;
   <a href="https://open.spotify.com/user/camelyia123">
@@ -141,6 +134,6 @@ impl Developer {
 <br/>
 
 <!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b9d,25:c44569,50:ff6b9d,75:f8a5c2,100:ff6b9d&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a12,15:3d1a2a,35:6b2d4a,50:8b3a5c,65:6b2d4a,85:3d1a2a,100:1a0a12&height=100&section=footer" width="100%"/>
 
 </div>
