@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- HEADER WITH DARK PINK GRADIENT AND TEXT -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a12,15:3d1a2a,35:6b2d4a,50:8b3a5c,65:6b2d4a,85:3d1a2a,100:1a0a12&height=220&section=header&text=Wildflover&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Full%20Stack%20Developer&descSize=20&descAlignY=50&descAlign=50&descColor=e0e0e0" width="100%"/>
+<!-- ANIME STYLE HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:1a0a1a,100:2d1f3d&height=250&section=header&text=Wildflover&fontSize=70&fontColor=e4a0ff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=20&descAlignY=52&descAlign=50&descColor=b8b8b8&stroke=9d4edd&strokeWidth=2" width="100%"/>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
@@ -125,6 +125,6 @@ impl Developer {
 <br/>
 
 <!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a12,15:3d1a2a,35:6b2d4a,50:8b3a5c,65:6b2d4a,85:3d1a2a,100:1a0a12&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:1a0a1a,100:2d1f3d&height=120&section=footer&reversal=true" width="100%"/>
 
 </div>
