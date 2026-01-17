@@ -165,55 +165,6 @@ class Developer:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 💫 Current Status & Vibes
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="40" height="40" />
-<br/>
-<b>Focus</b>
-<br/>
-Desktop Apps
-</td>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="40" height="40" />
-<br/>
-<b>Learning</b>
-<br/>
-Rust & Tauri
-</td>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="40" height="40" />
-<br/>
-<b>Hobby</b>
-<br/>
-Gaming & Anime
-</td>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" width="40" height="40" />
-<br/>
-<b>Design</b>
-<br/>
-Modern UI/UX
-</td>
-</tr>
-</table>
-
-<br/>
-
-**Current Mood:**
-😎 Focused • 🔥 Motivated • 💻 Coding • 🎯 Goal-Oriented • ⚡ Energized
-
-<br/>
-
-:rocket: Building desktop applications with Tauri
-:computer: Deep diving into Rust & system programming  
-:art: Crafting modern, elegant interfaces
-:video_game: Gaming during compile time
-:books: Always learning, always growing
 
 </div>
 
