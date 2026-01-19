@@ -76,9 +76,7 @@ impl<'a> Developer<'a> {
 <td width="50%" valign="top">
 
 ```python
-class Developer:
-    """Developer profile configuration."""
-    
+class Developer:    
     def __init__(self) -> None:
         self.name: str = "Wildflover"
         self.location: str = "Turkey"
